@@ -15,7 +15,7 @@ A simple Python GUI demo simulating lab hardware testing using `tkinter`.
 
 ### 📸 Preview
 
-![Simulator Screenshot](screenshot.png)
+![Simulator Screenshot](Test_GUI.png)
 
 ### 📁 How to Run
 ```bash
