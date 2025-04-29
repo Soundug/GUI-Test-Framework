@@ -1,4 +1,4 @@
-# Infineon Lab Test Automation Simulator 🧪
+# Infineon Lab Test Automation Simulator
 
 A simple Python GUI demo simulating lab hardware testing using `tkinter`.
 
